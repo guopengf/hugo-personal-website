@@ -77,9 +77,9 @@ design:
 		    <li> May, 2020   -  <strong><d>1 paper</d></strong> accepted in the  <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes">IEEE Journal of Selected Topics in Signal Processing </b></strong>.
 		    </li>
 		     <li> May, 2020   - <strong><d>1 paper</d></strong> accepted  at <strong><b href="https://www.miccai2020.org/en/" class="text-succes"> MICCAI 2020  </b></strong> (Early Acceptance).
+		    </li> 
+        <li>September, 2019 - Awarded <strong><c href="http://cvip2019.mnit.ac.in/Award.aspx" class="text-success"> Best Student Paper award </c></strong> at <strong><b href="http://cvip2019.mnit.ac.in/Default.aspx" class="text-success"> CVIP 2019 </b></strong>. 
 		    </li>
-		September, 2019 - Awarded <strong><c href="http://cvip2019.mnit.ac.in/Award.aspx" class="text-success"> Best Student Paper award </c></strong> at <strong><b href="http://cvip2019.mnit.ac.in/Default.aspx" class="text-success"> CVIP 2019 </b></strong>. 
-		    
 		    <li> August, 2019   -     Joined <strong><b href="https://www.jhu.edu/" class="text-succes"> Johns Hopkins University </b></strong> for my Ph.D with <strong><c class="text-success">ECE fellowship</c></strong>.
              		</li>
             </ul>
