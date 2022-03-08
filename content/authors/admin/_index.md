@@ -26,13 +26,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in AComputer Science
+  - course: PhD in Computer Science
     institution: Johns Hopkins University
     year: 2020-2023
   - course: MSE in Computer Science
     institution: Johns Hopkins University
     year: 2018-2019
-  - course: BSc in Computational Mathmatics
+  - course: BSc in Computational Mathematics (With Honors)
     institution: Michigan State University
     year: 2015-2018
 
@@ -66,8 +66,8 @@ email: "pguo4@jhu.edu"
 highlight_name: true
 ---
 
-Pengfei Guo (郭鹏飞) is a PhD student at Computer Science, Johns Hopkins University and a member of the [Vision and Image Understanding (VIU) Lab](https://engineering.jhu.edu/vpatel36/). His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Pengfei Guo (郭鹏飞) is a PhD student at Department of Computer Science, Johns Hopkins University and a member of the [Vision and Image Understanding (VIU) Lab](https://engineering.jhu.edu/vpatel36/), advised by [Dr. Vishal M Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en). He is also working closely with [MR Research Division](https://www.hopkinsmedicine.org/radiology/research/divisions/mr-research/index), Johns Hopkins Medicine to develop clinical applications. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interest lies at the intersection of medical image analysis, computer vision and machine learning. Currently, he is particularly working on accelerated MRI reconstruction, molecular MRI, and federated learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
