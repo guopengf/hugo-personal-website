@@ -42,8 +42,8 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.co.uk/citations?hl=en&pli=1&user=_IAp-bYAAAAJ
 - icon: github
   icon_pack: fab 
@@ -66,8 +66,8 @@ email: "pguo4@jhu.edu"
 highlight_name: true
 ---
 
-Pengfei Guo (郭鹏飞) is a PhD student at Department of Computer Science, Johns Hopkins University and a member of the [Vision and Image Understanding (VIU) Lab](https://engineering.jhu.edu/vpatel36/), advised by [Dr. Vishal M Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en). He is also working closely with [MR Research Division](https://www.hopkinsmedicine.org/radiology/research/divisions/mr-research/index), Johns Hopkins Medicine to develop clinical applications. 
+I am a PhD student at Department of Computer Science, Johns Hopkins University and a member of the [Vision and Image Understanding (VIU) Lab](https://engineering.jhu.edu/vpatel36/), advised by [Dr. Vishal M Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en). I am also working closely with [MR Research Division](https://www.hopkinsmedicine.org/radiology/research/divisions/mr-research/index), Johns Hopkins Medicine to develop clinical applications. 
 
-His research interest lies at the intersection of medical image analysis, computer vision and machine learning. Currently, he is particularly working on accelerated MRI reconstruction, molecular MRI, and federated learning.
+My research interest lies at the intersection of medical image analysis, computer vision and machine learning. Currently, I am particularly working on accelerated MRI reconstruction, molecular MRI, and federated learning. I interned at at NVIDIA in the summer of 2021 where I worked on federated learning and AutoML, working with [Holger Roth](https://www.holgerroth.com/) and [Daguang Xu](https://daguangxu.net/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
