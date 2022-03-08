@@ -23,11 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
-
-design:
-  columns: '2' 
----
-
 <div style="width:100%;overflow-y:scroll; height:180px;">
             <ul id="News">
 		    <p>
@@ -44,8 +39,6 @@ design:
 		    </li>
 		    <li> Dec, 2020   -  <strong><d>1 paper</d></strong> accepted by <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> IEEE Transactions on Medical Imaging </b></strong>.
 		    </li>
-		    <li> Nov, 2020   -  <strong><d>1 paper</d></strong> accepted in <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> IEEE Journal of Selected Topics in Signal Processing </b></strong>.
-		    </li>
 		    <li> July, 2020   -  <strong><d>1 papers</d></strong> accepted by <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> ECCV 2020</b></strong>.
 		    </li>
 		     <li> June, 2020   - <strong><d>2 paper</d></strong> accepted by <strong><b href="https://www.miccai2020.org/en/" class="text-succes"> MICCAI 2020</b></strong>.
@@ -54,3 +47,9 @@ design:
              </li>
             </ul>
 </div>
+
+design:
+  columns: '2' 
+---
+
+
