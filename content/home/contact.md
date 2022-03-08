@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: pguo4\[at\]jhu\[dot\]edu
+  email: pguo4[at]jhu[dot]edu
   address:
     street: 3101 Wyman Park Dr
     city: Baltimore
