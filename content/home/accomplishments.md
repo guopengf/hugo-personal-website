@@ -32,7 +32,7 @@ design:
 		    </p>
 			<li> Mar, 2022   -  <strong><d>2 paper</d></strong> accepted by <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> CVPR 2022</b></strong>.
 		    </li>
-			<li> Feb, 2022   -  Gave a talk at WSDM'22 WORKSHOP FL4P-WSDM: Federated Learning for Private Web Search and Data Mining.
+			<li> Feb, 2022   -  Gave a talk at WSDM'22 WORKSHOP <strong><a href="https://fl4p-wsdm.github.io" class="text-succes"> FL4P-WSDM </a></strong>: Federated Learning for Private Web Search and Data Mining.
 		    </li>
 		    <li> June, 2021  - <strong><d>1 papers</d></strong> accepted by <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> MICCAI 2021</b></strong>.
 		    </li>
