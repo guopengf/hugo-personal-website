@@ -30,7 +30,7 @@ design:
             <ul id="News">
 		    <p>
 		    </p>
-			<li> Mar, 2022   -  <strong><d>2 paper</d></strong> accepted by <strong><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> CVPR 2022</a></strong>.
+			<li> Mar, 2022   -  <strong><d>2 paper</d></strong> accepted by <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> CVPR 2022</b></strong>.
 		    </li>
 			<li> Feb, 2022   -  Gave a talk at WSDM'22 WORKSHOP FL4P-WSDM: Federated Learning for Private Web Search and Data Mining.
 		    </li>
