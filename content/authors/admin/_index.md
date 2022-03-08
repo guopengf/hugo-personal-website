@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pengfei Guo (郭鹏飞)
+title: Pengfei Guo
 
 # Is this the primary user of the site?
 superuser: true
