@@ -70,4 +70,4 @@ I am a PhD student at Department of Computer Science, Johns Hopkins University a
 
 My research interest lies at the intersection of medical image analysis, computer vision and machine learning. Currently, I am particularly working on accelerated MRI reconstruction, molecular MRI, and federated learning. I interned at NVIDIA in the summer of 2021 where I worked on federated learning and AutoML, working with [Holger Roth](https://www.holgerroth.com/) and [Daguang Xu](https://daguangxu.net/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
