@@ -16,16 +16,16 @@ content:
   autolink: true
   
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
+  #    # Enable CAPTCHA challenge to reduce spam?
+  #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: pguo4[at]jhu[dot]edu
+  email: Pengfei Guo (郭鹏飞)，pguo4[at]jhu[dot]edu
   address:
     street: 3101 Wyman Park Dr
     city: Baltimore
