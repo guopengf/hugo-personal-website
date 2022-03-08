@@ -23,11 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
+design:
+  columns: '2' 
+---
 <div style="width:100%;overflow-y:scroll; height:180px;">
             <ul id="News">
 		    <p>
 		    </p>
-			<li> Mar, 2022   -  <strong><d>2 paper</d></strong> accepted by <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> CVPR 2022</b></strong>.
+			<li> Mar, 2022   -  <strong><d>2 paper</d></strong> accepted by <strong><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> CVPR 2022</a></strong>.
 		    </li>
 			<li> Feb, 2022   -  Gave a talk at WSDM'22 WORKSHOP FL4P-WSDM: Federated Learning for Private Web Search and Data Mining.
 		    </li>
@@ -47,9 +50,4 @@ date_format: Jan 2006
              </li>
             </ul>
 </div>
-
-design:
-  columns: '2' 
----
-
 
