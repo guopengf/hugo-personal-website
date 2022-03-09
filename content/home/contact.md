@@ -37,4 +37,4 @@ content:
 design:
   columns: '2'
 ---
-<a href="https://clustrmaps.com/site/1bn8d"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=QyNCeBBG1PT8Dj9xAvnxGe2spi6R525x_cTpmNEPOYA&cl=ffffff" /></a>
+<a href='https://clustrmaps.com/site/1bn8d'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=QyNCeBBG1PT8Dj9xAvnxGe2spi6R525x_cTpmNEPOYA&co=2d78ad&ct=ffffff'/></a>
