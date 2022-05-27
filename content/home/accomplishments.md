@@ -30,17 +30,19 @@ design:
             <ul id="News">
 		    <p>
 		    </p>
-			  <li> Mar, 2022   -  <strong><d>2 papers</d></strong> accepted by <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> CVPR 2022</b></strong>.
+		    <li> May, 2022   -  Joined <strong><a href="https://hyperfine.io"> Hyperfine Research  </a></strong> as a Machine Learning Intern.
 		    </li>
-        <li> Feb, 2022   -  Received Trainee (Educational) Stipend from <strong><a href="https://www.ismrm.org/" class="text-succes"> ISMRM </a></strong>.
+			<li> Mar, 2022   -  <strong><d>2 papers</d></strong> accepted by <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> CVPR 2022</b></strong>.
 		    </li>
-			  <li> Feb, 2022   -  Gave a talk at WSDM'22 WORKSHOP <strong><a href="https://fl4p-wsdm.github.io" class="text-succes"> FL4P-WSDM </a></strong>: Federated Learning for Private Web Search and Data Mining.
+            <li> Feb, 2022   -  Received Trainee (Educational) Stipend from <strong><a href="https://www.ismrm.org/" class="text-succes"> ISMRM </a></strong>.
+		    </li>
+			<li> Feb, 2022   -  Gave a talk at WSDM'22 WORKSHOP <strong><a href="https://fl4p-wsdm.github.io" class="text-succes"> FL4P-WSDM </a></strong>: Federated Learning for Private Web Search and Data Mining.
 		    </li>
 		    <li> Jun, 2021  - <strong><d>1 paper</d></strong> accepted by <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> MICCAI 2021</b></strong>.
 		    </li>
 		    <li> May, 2021   -  Joined <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690"> NVIDIA </b></strong> as a Applied Research Intern.
 		    </li>
-			  <li> Mar, 2021   -  <strong><d>1 paper</d></strong> accepted by <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> CVPR 2021</b></strong>.
+			<li> Mar, 2021   -  <strong><d>1 paper</d></strong> accepted by <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> CVPR 2021</b></strong>.
 		    </li>
 		    <li> Dec, 2020   -  <strong><d>1 paper</d></strong> accepted by <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> IEEE Transactions on Medical Imaging </b></strong>.
 		    </li>

@@ -68,5 +68,5 @@ highlight_name: true
 
 I am a PhD student at Department of Computer Science, Johns Hopkins University and a member of the [Vision and Image Understanding (VIU) Lab](https://engineering.jhu.edu/vpatel36/), advised by [Dr. Vishal M Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en). I am also working closely with [MR Research Division](https://www.hopkinsmedicine.org/radiology/research/divisions/mr-research/index), Johns Hopkins Medicine to develop clinical applications. 
 
-My research interest lies at the intersection of medical image analysis, computer vision and machine learning. Currently, I am particularly working on accelerated MRI reconstruction, molecular MRI, and federated learning. I interned at NVIDIA in the summer of 2021 where I worked on federated learning and AutoML, working with [Holger Roth](https://www.holgerroth.com/) and [Daguang Xu](https://daguangxu.net/).
+My research interest lies at the intersection of medical image analysis, computer vision and machine learning. Currently, I am particularly working on accelerated MRI reconstruction, molecular MRI, and federated learning. I interned at NVIDIA in the summer of 2021 where I worked on federated learning and AutoML, with [Holger Roth](https://www.holgerroth.com/) and [Daguang Xu](https://daguangxu.net/).
 
