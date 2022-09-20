@@ -30,13 +30,15 @@ design:
             <ul id="News">
 		    <p>
 		    </p>
+			<li> Sep, 2022   -  Joined <strong><a href="https://research.google"> Google </a></strong> as Research Intern.
+		    </li>
 			<li> Jul, 2022   -  <strong><d>1 paper</d></strong> accepted at <strong><a href="https://www.sciencedirect.com/science/article/pii/S2213158222001863" class="text-succes"> NeuroImage: Clinical</a></strong>.
 		    </li>
-		    <li> Jul, 2022   -  <strong><d>1 paper</d></strong> accepted at <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> ECCV 2022</b></strong>.
+		    <li> Jul, 2022   -  <strong><d>1 paper</d></strong> accepted at <strong><a href="https://arxiv.org/abs/2203.06338" class="text-succes"> ECCV 2022</a></strong>.
 		    </li>
 		    <li> Jun, 2022   -  <strong><d>1 paper</d></strong> accepted at <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> MICCAI 2022</b></strong>.
 		    </li>
-		    <li> May, 2022   -  Joined <strong><a href="https://hyperfine.io"> Hyperfine Research  </a></strong> as a Machine Learning Intern.
+		    <li> May, 2022   -  Joined <strong><a href="https://hyperfine.io"> Hyperfine Research  </a></strong> as Machine Learning Intern.
 		    </li>
 			<li> Mar, 2022   -  <strong><d>2 papers</d></strong> accepted at <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> CVPR 2022</b></strong>.
 		    </li>
@@ -46,7 +48,7 @@ design:
 		    </li>
 		    <li> Jun, 2021  - <strong><d>1 paper</d></strong> accepted at <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> MICCAI 2021</b></strong>.
 		    </li>
-		    <li> May, 2021   -  Joined <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690"> NVIDIA </b></strong> as a Applied Research Intern.
+		    <li> May, 2021   -  Joined <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690"> NVIDIA </b></strong> as Applied Research Intern.
 		    </li>
 			<li> Mar, 2021   -  <strong><d>1 paper</d></strong> accepted at <strong><b href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" class="text-succes"> CVPR 2021</b></strong>.
 		    </li>
