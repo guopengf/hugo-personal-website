@@ -57,7 +57,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/20220307.pdf
+  link: uploads/20220718.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "pguo4@jhu.edu"
