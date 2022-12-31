@@ -30,6 +30,8 @@ design:
             <ul id="News">
 		    <p>
 		    </p>
+		    <li> Sep, 2022   -  <strong><d>1 paper</d></strong> accepted at <strong><a href="https://openreview.net/forum?id=wfel7CjOYk" class="text-succes"> NeurIPS 2022</a></strong>.
+		    </li>
 			<li> Sep, 2022   -  Joined <strong><a href="https://research.google"> Google </a></strong> as Research Intern.
 		    </li>
 			<li> Jul, 2022   -  <strong><d>1 paper</d></strong> accepted at <strong><a href="https://www.sciencedirect.com/science/article/pii/S2213158222001863" class="text-succes"> NeuroImage: Clinical</a></strong>.
