@@ -30,6 +30,14 @@ design:
             <ul id="News">
 		    <p>
 		    </p>
+			 <li> March, 2023   -  <strong><d>1 paper</d></strong> accepted at <strong><a href="https://2023.midl.io/" class="text-succes"> MIDL 2023</a></strong>.
+		    </li>
+			 <li> March, 2023   -  <strong><d>1 paper</d></strong> accepted at <strong><a href="https://pml4dc.github.io/iclr2023/" class="text-succes"> PML4DC@ICLR 2023</a></strong>.
+		    </li>
+			<li> Feb, 2023   -  Received Trainee (Educational) Stipend from <strong><a href="https://www.ismrm.org/" class="text-succes"> ISMRM </a></strong>.
+		    </li>
+			<li> Feb, 2023   -  I successfully defended my Ph.D. thesis!!! </a></strong>.
+		    </li>
 		    <li> Sep, 2022   -  <strong><d>1 paper</d></strong> accepted at <strong><a href="https://openreview.net/forum?id=wfel7CjOYk" class="text-succes"> NeurIPS 2022</a></strong>.
 		    </li>
 			<li> Sep, 2022   -  Joined <strong><a href="https://research.google"> Google </a></strong> as Research Intern.
