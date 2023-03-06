@@ -6,12 +6,12 @@ title: Pengfei Guo
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate at Department of Computer Science
+role: Applied Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Johns Hopkins University
-  url: https://www.cs.jhu.edu/
+- name: NVIDIA
+  url: https://www.nvidia.com/en-us/
  
 
 # Short bio (displayed in user profile at end of posts)
@@ -66,7 +66,7 @@ email: "pguo4@jhu.edu"
 highlight_name: true
 ---
 
-I am a PhD candidate at Department of Computer Science, Johns Hopkins University and a member of the [Vision and Image Understanding (VIU) Lab](https://engineering.jhu.edu/vpatel36/), advised by [Dr. Vishal M Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en). I am also working closely with [MR Research Division](https://www.hopkinsmedicine.org/radiology/research/divisions/mr-research/index), Johns Hopkins Medicine to develop clinical applications. 
+I am an Applied Research Scientist at NVIDIA. I received my PhD degree at Department of Computer Science, Johns Hopkins University and was a member of the [Vision and Image Understanding (VIU) Lab](https://engineering.jhu.edu/vpatel36/), advised by [Dr. Vishal M Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en). I worked closely with [MR Research Division](https://www.hopkinsmedicine.org/radiology/research/divisions/mr-research/index), Johns Hopkins Medicine to develop clinical applications. 
 
-My research interest lies at the intersection of medical image analysis, computer vision and machine learning. Currently, I am particularly working on accelerated MRI reconstruction, molecular MRI, and federated learning. I interned at NVIDIA in the summer of 2021 where I worked on federated learning and AutoML, with [Holger Roth](https://www.holgerroth.com/) and [Daguang Xu](https://daguangxu.net/).
+My research interest lies at the intersection of medical image analysis, computer vision and machine learning. I fortunately interned at NVIDIA (Summer 2021), Hyperfine (Summer 2022), and Google (Fall 2023) during doctoral study.
 

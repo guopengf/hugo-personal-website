@@ -25,14 +25,7 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: Pengfei Guo (郭鹏飞)，pguo4[at]jhu[dot]edu
-  address:
-    street: 3101 Wyman Park Dr
-    city: Baltimore
-    region: MD
-    postcode: '21218'
-    country: United States
-    country_code: US
+  email: Pengfei Guo (郭鹏飞)，guopengfei37425[at]gmail[dot]com
     
 design:
   columns: '2'

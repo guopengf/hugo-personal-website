@@ -30,6 +30,8 @@ design:
             <ul id="News">
 		    <p>
 		    </p>
+		    <li> March, 2023   -  Joined <strong><a href="https://www.nvidia.com/en-us/"> NVIDIA </a></strong> as Applied Research Scientist.
+		    </li>
 			 <li> March, 2023   -  <strong><d>1 paper</d></strong> accepted at <strong><a href="https://2023.midl.io/" class="text-succes"> MIDL 2023</a></strong>.
 		    </li>
 			 <li> March, 2023   -  <strong><d>1 paper</d></strong> accepted at <strong><a href="https://pml4dc.github.io/iclr2023/" class="text-succes"> PML4DC@ICLR 2023</a></strong>.
