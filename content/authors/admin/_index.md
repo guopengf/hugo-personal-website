@@ -68,5 +68,5 @@ highlight_name: true
 
 I am an Applied Research Scientist at NVIDIA. I received my PhD degree at Department of Computer Science, Johns Hopkins University and was a member of the [Vision and Image Understanding (VIU) Lab](https://engineering.jhu.edu/vpatel36/), advised by [Dr. Vishal M Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en). I worked closely with [MR Research Division](https://www.hopkinsmedicine.org/radiology/research/divisions/mr-research/index), Johns Hopkins Medicine to develop clinical applications. 
 
-My research interest lies at the intersection of medical image analysis, computer vision and machine learning. I fortunately interned at NVIDIA (Summer 2021), Hyperfine (Summer 2022), and Google (Fall 2023) during doctoral study.
+My research interest lies at the intersection of medical image analysis, computer vision and machine learning. I fortunately interned at NVIDIA (Summer 2021), Hyperfine (Summer 2022), and Google (Fall 2022) during doctoral study.
 
