@@ -6,7 +6,7 @@ title: Pengfei Guo
 superuser: true
 
 # Role/position/tagline
-role: Applied Research Scientist
+role: Senior Applied Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -60,13 +60,13 @@ social:
   link: uploads/20220718.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "pguo4@jhu.edu"
+email: "pengfeig@nvidia.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an Applied Research Scientist at NVIDIA. I received my PhD degree at Department of Computer Science, Johns Hopkins University and was a member of the [Vision and Image Understanding (VIU) Lab](https://engineering.jhu.edu/vpatel36/), advised by [Dr. Vishal M Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en). I worked closely with [MR Research Division](https://www.hopkinsmedicine.org/radiology/research/divisions/mr-research/index), Johns Hopkins Medicine to develop clinical applications. 
+I am a Senior Applied Research Scientist at NVIDIA. I received my PhD degree at Department of Computer Science, Johns Hopkins University and was a member of the [Vision and Image Understanding (VIU) Lab](https://engineering.jhu.edu/vpatel36/), advised by [Dr. Vishal M Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en). I worked closely with [MR Research Division](https://www.hopkinsmedicine.org/radiology/research/divisions/mr-research/index), Johns Hopkins Medicine to develop clinical applications. 
 
 My research interest lies at the intersection of medical image analysis, computer vision and machine learning. I fortunately interned at NVIDIA (Summer 2021), Hyperfine (Summer 2022), and Google (Fall 2022) during doctoral study.
 
